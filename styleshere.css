@@ -1,0 +1,60 @@
+.container{
+    position: fixed;
+    top:0px;
+    background-color: rgb(255, 255, 255);
+   /* border-radius: 30px;*/
+    width: 98vw;
+    height: 55px;
+}
+ul{
+    position: absolute;
+    right: 20px;
+}
+ul li{
+    display: inline;
+    padding-left: 20px;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 1em;
+    cursor: pointer;
+    
+}
+a:hover{
+    text-decoration: underline;
+    color: rgb(136, 108, 108);
+    font-size: 1.2em;
+}
+#name{
+    position: fixed;
+    left: 20px;
+    font-family: "Brush Script MT", cursive; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 26.4px; } h3 { font-family: "Brush Script MT", cursive; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: "Brush Script MT", cursive; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: "Brush Script MT", cursive; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: "Brush Script MT", cursive; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; ;
+    font-size: 2em;
+    color: rgb(255, 2, 2);
+    }
+    .topimage img{
+        width: 100vw;
+        height: 100vh;
+    }
+    .manbox{
+          text-align: center;
+    }
+    .manb img{
+       /* float: right;
+       justify-content:space-around;*/
+       width: 40%;
+       height: 60%;
+        margin-bottom: 30px;
+    }
+    button{
+        width:25%;
+        color: blue;
+        background-color: rgb(191, 236, 225);
+        border-radius: 13px;
+        cursor: pointer;
+
+    }
+    button:hover{
+              background-color: cyan;
+    }

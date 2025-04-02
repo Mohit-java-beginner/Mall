@@ -1,0 +1,127 @@
+/*body{
+   
+    background-image: url('top.jpg');
+    background-repeat: no-repeat;
+}*/
+.topimage img{
+    width: 100vw;
+    height: 100vh;
+}
+.topheading{
+    width: 100vw;
+    position: absolute;
+    top: 50px;
+    text-shadow: 3px 3px 3px;
+    text-align: center;
+}
+.topheading1{  
+    font-size: 4em;
+}
+.topheading2{ 
+    font-size: 3em;
+    margin-top: 30px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+.womanbox{
+    margin-top: 30px;
+    
+}
+.woman{
+    float:left;
+    width: 30%;
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+.manbox{
+   /* border: 2px solid red;
+    position: absolute;
+    top: 2157px;*/
+}
+.manb{
+    float:left;
+    width: 30%;
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+.manpbox{
+   /* border: 2px solid rgb(68, 0, 255);
+    position: absolute;
+    top: 2157px;*/
+}
+.pant{
+    float:left;
+    width: 30%;
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+.manshoes{
+   /* border: 2px solid rgb(68, 0, 255);
+    position: absolute;
+    top: 2157px;*/
+}
+.shoes{
+    float:left;
+    width: 30%;
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+.manshirt{
+   /* border: 2px solid rgb(68, 0, 255);
+    position: absolute;
+    top: 2157px;*/
+}
+.shirt{
+    float:left;
+    width: 30%;
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+.kidebox{
+   /* border: 2px solid rgb(68, 0, 255);*/
+   
+}
+.kids{
+    float:left;
+    width: 30%;
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+.container{
+    position: fixed;
+    top:0px;
+    background-color: rgb(255, 255, 255);
+   /* border-radius: 30px;*/
+    width: 98vw;
+    height: 55px;
+}
+ul{
+    position: absolute;
+    right: 20px;
+}
+ul li{
+    display: inline;
+    padding-left: 20px;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 1em;
+    cursor: pointer;
+    
+}
+a:hover{
+    text-decoration: underline;
+    color: rgb(136, 108, 108);
+    font-size: 1.2em;
+}
+#name{
+    position: fixed;
+    left: 20px;
+    font-family: "Brush Script MT", cursive; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 26.4px; } h3 { font-family: "Brush Script MT", cursive; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: "Brush Script MT", cursive; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: "Brush Script MT", cursive; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: "Brush Script MT", cursive; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; ;
+    font-size: 2em;
+    color: rgb(255, 2, 2);
+    }
